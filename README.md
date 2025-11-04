@@ -63,9 +63,7 @@ Built visuals showing sales performance by category, gender, and region.
 🚀 How to Run
 
 Clone the repository:
-
-git clone https://github.com/krishxkapoor/Customer-Behavior-analysis-project.git
-
+https://github.com/krishxkapoor/Customer-Behavior-analysis.git
 
 Run analysis notebooks or scripts in Jupyter/VS Code.
 
